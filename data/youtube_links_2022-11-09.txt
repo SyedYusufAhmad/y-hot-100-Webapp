@@ -1,0 +1,4 @@
+youtube_embed_src1="https://www.youtube.com/embed/videoseries?list=TLGGW7da-QBrYnYwOTExMjAyMg"
+youtube_embed_src2="https://www.youtube.com/embed/videoseries?list=TLGGSoL-3Pz9phIwOTExMjAyMg"
+playlist_link_1="https://www.youtube.com/watch?v=LarwAMC_lNE&list=TLGGW7da-QBrYnYwOTExMjAyMg"
+playlist_link_2="https://www.youtube.com/watch?v=6S71bzLtf98&list=TLGGSoL-3Pz9phIwOTExMjAyMg"
